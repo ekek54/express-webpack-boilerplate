@@ -1,0 +1,22 @@
+{
+  "name": "express-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "node express 애플리케이션에 WebPack 기본 설정을한 boilerplate 구성",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangNyeonKim/express-webpack-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KangNyeonKim/express-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/KangNyeonKim/express-webpack-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
